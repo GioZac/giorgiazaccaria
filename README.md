@@ -1,6 +1,6 @@
 ## Giorgia Zaccaria
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="C:\Users\User\Downloads\Zaccaria_Foto_GH.png" width="100"/>
 </div>
 You can use the [editor on GitHub](https://github.com/GioZac/giorgiazaccaria/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
